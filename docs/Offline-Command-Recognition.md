@@ -1,7 +1,7 @@
 # Offline Command Recognition
 
-*  Sources: 
-** [ReSpeaker – First Impressions + Simple Offline Voice Recognition](https://spin.atomicobject.com/2016/09/19/respeaker/)
+*  Sources:  
+** [ReSpeaker – First Impressions + Simple Offline Voice Recognition](https://spin.atomicobject.com/2016/09/19/respeaker/)  
 ** [nxp-gf / ReSpeaker Python Library](https://github.com/nxp-gf/respeaker_python_library)  
 
 * How-To:
